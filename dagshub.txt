@@ -1,11 +1,13 @@
 This details has been copied from Remote -> Experiments section 
 
-
+-----------------------------------------------------------------------------
 MLflow Tracking Remote :
+This is used to set tracking uri, like this:
+mlflow.set_tracking_uri("https://dagshub.com/AyanArshad02/MLOps-Experiments-With-MLFlow.mlflow")
 
 https://dagshub.com/AyanArshad02/MLOps-Experiments-With-MLFlow.mlflow
 
-
+-----------------------------------------------------------------------------
 
 Using MLflow Tracking : 
 
