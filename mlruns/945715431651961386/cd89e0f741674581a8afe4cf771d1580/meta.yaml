@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mdayanarshad/Desktop/vikash%20das%20mlops/MLOps-Experiments-With-MLFlow/mlruns/945715431651961386/cd89e0f741674581a8afe4cf771d1580/artifacts
+end_time: 1738134013736
+entry_point_name: ''
+experiment_id: '945715431651961386'
+lifecycle_stage: active
+run_id: cd89e0f741674581a8afe4cf771d1580
+run_name: gregarious-midge-46
+run_uuid: cd89e0f741674581a8afe4cf771d1580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738134013731
+status: 3
+tags: []
+user_id: mdayanarshad

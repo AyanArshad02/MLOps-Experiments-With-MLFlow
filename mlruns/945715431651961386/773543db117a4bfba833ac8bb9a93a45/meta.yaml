@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mdayanarshad/Desktop/vikash%20das%20mlops/MLOps-Experiments-With-MLFlow/mlruns/945715431651961386/773543db117a4bfba833ac8bb9a93a45/artifacts
+end_time: 1738134013724
+entry_point_name: ''
+experiment_id: '945715431651961386'
+lifecycle_stage: active
+run_id: 773543db117a4bfba833ac8bb9a93a45
+run_name: salty-bear-285
+run_uuid: 773543db117a4bfba833ac8bb9a93a45
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738134013719
+status: 3
+tags: []
+user_id: mdayanarshad

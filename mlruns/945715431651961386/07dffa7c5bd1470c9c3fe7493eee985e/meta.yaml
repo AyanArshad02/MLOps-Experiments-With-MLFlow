@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mdayanarshad/Desktop/vikash%20das%20mlops/MLOps-Experiments-With-MLFlow/mlruns/945715431651961386/07dffa7c5bd1470c9c3fe7493eee985e/artifacts
+end_time: 1738134013760
+entry_point_name: ''
+experiment_id: '945715431651961386'
+lifecycle_stage: active
+run_id: 07dffa7c5bd1470c9c3fe7493eee985e
+run_name: capable-ape-506
+run_uuid: 07dffa7c5bd1470c9c3fe7493eee985e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738134013755
+status: 3
+tags: []
+user_id: mdayanarshad

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mdayanarshad/Desktop/vikash%20das%20mlops/MLOps-Experiments-With-MLFlow/mlruns/945715431651961386/3fd7492b174d477c9cc3b63491d8b721/artifacts
+end_time: 1738134013718
+entry_point_name: ''
+experiment_id: '945715431651961386'
+lifecycle_stage: active
+run_id: 3fd7492b174d477c9cc3b63491d8b721
+run_name: unequaled-fish-422
+run_uuid: 3fd7492b174d477c9cc3b63491d8b721
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738134013712
+status: 3
+tags: []
+user_id: mdayanarshad

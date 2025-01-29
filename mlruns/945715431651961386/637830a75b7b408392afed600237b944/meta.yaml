@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mdayanarshad/Desktop/vikash%20das%20mlops/MLOps-Experiments-With-MLFlow/mlruns/945715431651961386/637830a75b7b408392afed600237b944/artifacts
+end_time: 1738134016442
+entry_point_name: ''
+experiment_id: '945715431651961386'
+lifecycle_stage: active
+run_id: 637830a75b7b408392afed600237b944
+run_name: monumental-squid-371
+run_uuid: 637830a75b7b408392afed600237b944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738134011482
+status: 3
+tags: []
+user_id: mdayanarshad

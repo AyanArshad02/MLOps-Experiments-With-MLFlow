@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mdayanarshad/Desktop/vikash%20das%20mlops/MLOps-Experiments-With-MLFlow/mlruns/945715431651961386/242814947ae74eb588a9b0b8dfa9989c/artifacts
+end_time: 1738134013755
+entry_point_name: ''
+experiment_id: '945715431651961386'
+lifecycle_stage: active
+run_id: 242814947ae74eb588a9b0b8dfa9989c
+run_name: enthused-squid-210
+run_uuid: 242814947ae74eb588a9b0b8dfa9989c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738134013749
+status: 3
+tags: []
+user_id: mdayanarshad

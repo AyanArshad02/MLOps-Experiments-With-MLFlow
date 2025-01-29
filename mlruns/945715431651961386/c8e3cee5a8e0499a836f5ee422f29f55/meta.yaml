@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mdayanarshad/Desktop/vikash%20das%20mlops/MLOps-Experiments-With-MLFlow/mlruns/945715431651961386/c8e3cee5a8e0499a836f5ee422f29f55/artifacts
+end_time: 1738134013704
+entry_point_name: ''
+experiment_id: '945715431651961386'
+lifecycle_stage: active
+run_id: c8e3cee5a8e0499a836f5ee422f29f55
+run_name: defiant-moth-525
+run_uuid: c8e3cee5a8e0499a836f5ee422f29f55
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738134013699
+status: 3
+tags: []
+user_id: mdayanarshad

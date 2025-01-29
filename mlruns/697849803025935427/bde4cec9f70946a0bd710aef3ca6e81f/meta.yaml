@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/697849803025935427/bde4cec9f70946a0bd710aef3ca6e81f/artifacts
+end_time: 1738125640698
+entry_point_name: ''
+experiment_id: '697849803025935427'
+lifecycle_stage: active
+run_id: bde4cec9f70946a0bd710aef3ca6e81f
+run_name: spiffy-fowl-694
+run_uuid: bde4cec9f70946a0bd710aef3ca6e81f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738125640121
+status: 3
+tags: []
+user_id: mdayanarshad

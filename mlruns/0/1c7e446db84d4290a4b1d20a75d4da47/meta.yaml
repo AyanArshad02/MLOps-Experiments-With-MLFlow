@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/1c7e446db84d4290a4b1d20a75d4da47/artifacts
+end_time: 1738123968508
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 1c7e446db84d4290a4b1d20a75d4da47
+run_name: omniscient-horse-578
+run_uuid: 1c7e446db84d4290a4b1d20a75d4da47
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738123968488
+status: 3
+tags: []
+user_id: mdayanarshad

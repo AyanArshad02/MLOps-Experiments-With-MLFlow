@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/697849803025935427/f6d0aab2370f45579fe57ca0599aa9fd/artifacts
+end_time: 1738126714337
+entry_point_name: ''
+experiment_id: '697849803025935427'
+lifecycle_stage: active
+run_id: f6d0aab2370f45579fe57ca0599aa9fd
+run_name: skittish-loon-212
+run_uuid: f6d0aab2370f45579fe57ca0599aa9fd
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738126710667
+status: 3
+tags: []
+user_id: mdayanarshad

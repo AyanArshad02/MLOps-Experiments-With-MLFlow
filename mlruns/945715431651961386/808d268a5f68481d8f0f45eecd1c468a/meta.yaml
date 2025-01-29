@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mdayanarshad/Desktop/vikash%20das%20mlops/MLOps-Experiments-With-MLFlow/mlruns/945715431651961386/808d268a5f68481d8f0f45eecd1c468a/artifacts
+end_time: 1738134013730
+entry_point_name: ''
+experiment_id: '945715431651961386'
+lifecycle_stage: active
+run_id: 808d268a5f68481d8f0f45eecd1c468a
+run_name: funny-shoat-360
+run_uuid: 808d268a5f68481d8f0f45eecd1c468a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738134013725
+status: 3
+tags: []
+user_id: mdayanarshad

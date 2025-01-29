@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/46735355f3e74ab0afd651836512c494/artifacts
+end_time: 1738124472143
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 46735355f3e74ab0afd651836512c494
+run_name: unique-moose-779
+run_uuid: 46735355f3e74ab0afd651836512c494
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738124471577
+status: 3
+tags: []
+user_id: mdayanarshad

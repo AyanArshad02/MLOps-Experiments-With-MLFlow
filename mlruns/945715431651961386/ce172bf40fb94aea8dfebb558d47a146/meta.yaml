@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mdayanarshad/Desktop/vikash%20das%20mlops/MLOps-Experiments-With-MLFlow/mlruns/945715431651961386/ce172bf40fb94aea8dfebb558d47a146/artifacts
+end_time: 1738134013766
+entry_point_name: ''
+experiment_id: '945715431651961386'
+lifecycle_stage: active
+run_id: ce172bf40fb94aea8dfebb558d47a146
+run_name: trusting-jay-440
+run_uuid: ce172bf40fb94aea8dfebb558d47a146
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738134013761
+status: 3
+tags: []
+user_id: mdayanarshad

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/mdayanarshad/Desktop/vikash%20das%20mlops/MLOps-Experiments-With-MLFlow/mlruns/945715431651961386/7160c5b81ebf4ed38e8b7bcf83088e22/artifacts
+end_time: 1738134013749
+entry_point_name: ''
+experiment_id: '945715431651961386'
+lifecycle_stage: active
+run_id: 7160c5b81ebf4ed38e8b7bcf83088e22
+run_name: rogue-dove-444
+run_uuid: 7160c5b81ebf4ed38e8b7bcf83088e22
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1738134013743
+status: 3
+tags: []
+user_id: mdayanarshad
