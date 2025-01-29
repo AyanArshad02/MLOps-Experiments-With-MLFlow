@@ -56,4 +56,4 @@ MLflow is a powerful tool for tracking and managing machine learning experiments
    - **Experiment Name**: Group multiple runs under a single experiment name.
    - **Timestamps**: Log start and end times of each run to track duration.
 
-This comprehensive list should help users understand the versatility of MLflow for tracking and managing their machine learning workflows.
+> The folder named 0 inside mlruns, mlartifacts etc means this is default experiment. And we can set our own experiment using mlflow.set_experiment()
