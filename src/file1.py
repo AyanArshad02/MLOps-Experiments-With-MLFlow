@@ -10,6 +10,13 @@ import matplotlib.pyplot as plt
 import pandas as pd
 import seaborn as sns
 
+
+# Set the MLflow tracking URI to the local MLflow server
+mlflow.set_tracking_uri("http://127.0.0.1:5000")
+print("MLflow Tracking URI:", mlflow.get_tracking_uri())
+
+mlflow.set_experiment("wine-classification")
+
 # Load the wine dataset
 data = load_wine()
 X = data.data
@@ -20,12 +27,12 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.25, random
 
 # The random forest model
 max_depth = 10
-n_estimators = 10
+n_estimators = 5
 
 
 
 # code for MLFlow
-with mlflow.start_run():
+with mlflow.start_run():  
     rf = RandomForestClassifier(n_estimators=n_estimators, max_depth=max_depth,random_state=42)
     rf.fit(X_train, y_train)
 
@@ -43,12 +50,24 @@ with mlflow.start_run():
     mlflow.log_param("n_estimators", n_estimators)
     mlflow.log_param("max_depth", max_depth)
 
-    # mlflow.sklearn.log_model(rf, "model")
-    # mlflow.log_artifact("confusion_matrix.png")
+    # Plot the confusion matrix
+    plt.figure(figsize=(10,7))
+    sns.heatmap(confusion, annot=True,fmt='d',cmap='Blues',xticklabels=data.target_names,yticklabels=data.target_names)
+    plt.xlabel('Predicted')
+    plt.ylabel('Actual')
+    plt.title('Confusion Matrix')
 
-    # plt.figure(figsize=(10,7))
-    # sns.heatmap(confusion, annot=True)
-    # plt.savefig("confusion_matrix.png")
-    # plt.close()
+    # Save the confusion matrix plot
+    plt.savefig("confusion_matrix.png")
 
+    # Log Artifacts (output files) using MLFlow
+    mlflow.log_artifact("confusion_matrix.png")
+    mlflow.log_artifact(__file__) # log the source code file (file1.py)
 
+    # set tags
+    mlflow.set_tags({"Author": "Ayan", "Framework": "MLFlow"})
+
+    # log the model
+    mlflow.sklearn.log_model(rf, "model")
+
+    print(mlflow.get_tracking_uri())
